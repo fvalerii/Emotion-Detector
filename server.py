@@ -12,6 +12,9 @@ def detect():
     statement = request.args.get('textToAnalyze')
     output = emotion_detector(statement)
     dominant_emotion = output['dominant_emotion']
+
+    if dominant_emotion == None:
+        return "Invalid text! Please try again!" 
     emotions = ", ".join(
         f"'{key}': {value}"
         for key, value in output.items()
