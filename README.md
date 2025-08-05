@@ -1,10 +1,10 @@
-## Project Overview
+# Project Overview
 
 This project showcases a comprehensive full-stack application for analyzing customer feedback. Developed as part of the IBM AI Engineering Professional Certificate, it demonstrates a complete workflow from AI model integration to web deployment. The core of this application is an emotion detection system built using IBM Watson's natural language processing (NLP) libraries. It goes beyond traditional sentiment analysis by identifying specific emotions such as joy, sadness, anger, and more, from text-based customer reviews.
 
 This solution is ideal for e-commerce companies seeking to gain deeper insights into their customer base, enabling them to build more sophisticated recommendation systems, refine product strategies, and enhance automated customer support chatbots.
 
-Key Features
+## Key Features
 
  * Emotion Detection: Utilizes the robust IBM Watson NLP library to accurately identify a range of human emotions from free-form text.
  
@@ -18,37 +18,37 @@ Key Features
  
  * Full-Stack Development: Demonstrates proficiency in both back-end logic (Python, Flask) and front-end presentation.
 
-Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
-    Artificial Intelligence & Machine Learning:
+  * Artificial Intelligence & Machine Learning:
 
-        Natural Language Processing (NLP)
+      * Natural Language Processing (NLP)
+      
+      * Emotion Detection
+      
+      * IBM Watson AI Libraries
+      
+   * Web Development & Deployment:
 
-        Emotion Detection
+      * Python
 
-        IBM Watson AI Libraries
+      *  Flask
 
-    Web Development & Deployment:
+      *  HTML/CSS
 
-        Python
+      *  RESTful APIs
 
-        Flask
+   * Software Engineering Best Practices:
 
-        HTML/CSS
+      *  Unit Testing
 
-        RESTful APIs
+      *  Static Code Analysis (e.g., Pylint)
 
-    Software Engineering Best Practices:
+      *  Version Control (Git)
 
-        Unit Testing
+      *  Code Packaging and Structure
 
-        Static Code Analysis (e.g., Pylint)
-
-        Version Control (Git)
-
-        Code Packaging and Structure
-
-        Error Handling and Exception Management
+      *  Error Handling and Exception Management
 
 How to Run
 
