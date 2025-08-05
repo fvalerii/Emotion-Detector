@@ -6,17 +6,17 @@ This solution is ideal for e-commerce companies seeking to gain deeper insights 
 
 Key Features
 
-    Emotion Detection: Utilizes the robust IBM Watson NLP library to accurately identify a range of human emotions from free-form text.
-
-    Web Application Deployment: Deploys the AI model as a scalable and user-friendly web application using the Flask framework.
-
-    Robust Error Handling: Implements comprehensive error handling to ensure application stability and a seamless user experience.
-
-    Unit Testing: Includes a suite of unit tests to validate application functionality and ensure code reliability.
-
-    Static Code Analysis: Integrates static code analysis to maintain high code quality standards.
-
-    Full-Stack Development: Demonstrates proficiency in both back-end logic (Python, Flask) and front-end presentation.
+ * Emotion Detection: Utilizes the robust IBM Watson NLP library to accurately identify a range of human emotions from free-form text.
+ 
+ * Web Application Deployment: Deploys the AI model as a scalable and user-friendly web application using the Flask framework.
+ 
+ * Robust Error Handling: Implements comprehensive error handling to ensure application stability and a seamless user experience.
+ 
+ * Unit Testing: Includes a suite of unit tests to validate application functionality and ensure code reliability.
+ 
+ * Static Code Analysis: Integrates static code analysis to maintain high code quality standards.
+ 
+ * Full-Stack Development: Demonstrates proficiency in both back-end logic (Python, Flask) and front-end presentation.
 
 Technical Skills Demonstrated
 
