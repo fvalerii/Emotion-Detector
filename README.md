@@ -54,18 +54,18 @@ This solution is ideal for e-commerce companies seeking to gain deeper insights 
 
    1. Clone the repository:
 
-    ```Bash
+    ```bash
     git clone https://github.com/your-username/your-repo-name.git
     cd your-repo-name
 
    3. Install dependencies:
     
-    ```Bash
+    ```bash
     pip install -r requirements.txt
 
    3. Run the application:
 
-    ```Bash
+    ```bash
     python app.py
 
 The application will be accessible at http://127.0.0.1:5000.
