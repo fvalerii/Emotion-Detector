@@ -63,10 +63,11 @@ This solution is ideal for e-commerce companies seeking to gain deeper insights 
     ```bash
     pip install -r requirements.txt
 
-   3. Run the application:
+   3. Run the application:\
 
-    ```bash
-    python app.py
+   ```bash
+    
+     python app.py
 
 The application will be accessible at http://127.0.0.1:5000.
 
