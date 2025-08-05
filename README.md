@@ -61,9 +61,8 @@ This solution is ideal for e-commerce companies seeking to gain deeper insights 
 
    3. Install dependencies:
     
-      ```bash```
-      
-      pip install -r requirements.txt
+      ```bash
+      pip install -r requirements.txt```
 
    3. Run the application:\
 
