@@ -50,38 +50,38 @@ This solution is ideal for e-commerce companies seeking to gain deeper insights 
 
       *  Error Handling and Exception Management
 
-How to Run
+## How to Run
 
-    Clone the repository:
+   1. Clone the repository:
+
     Bash
+    git clone https://github.com/your-username/your-repo-name.git
+    cd your-repo-name
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+   3. Install dependencies:
+    
+    Bash
+    pip install -r requirements.txt
 
-Install dependencies:
-Bash
+   3. Run the application:
 
-pip install -r requirements.txt
-
-Run the application:
-Bash
-
+    Bash
     python app.py
 
 The application will be accessible at http://127.0.0.1:5000.
 
-Project Structure
+## Project Structure
 
-    app.py: The main Flask application file.
+  *  app.py: The main Flask application file.
 
-    emotion_detector.py: Contains the core logic for interacting with the IBM Watson NLP library.
+  *  emotion_detector.py: Contains the core logic for interacting with the IBM Watson NLP library.
 
-    templates/index.html: The front-end user interface.
+  *  templates/index.html: The front-end user interface.
 
-    tests/: Directory for unit tests.
+  *  tests/: Directory for unit tests.
 
-    requirements.txt: Lists all necessary Python dependencies.
+  *  requirements.txt: Lists all necessary Python dependencies.
 
-Acknowledgment
+## Acknowledgment
 
 This project was completed as the final capstone for the IBM AI Engineering Professional Certificate on Coursera. The skills acquired throughout the program were instrumental in the successful development and deployment of this application.
